@@ -1,0 +1,72 @@
+.trip {
+  margin-top: 0.5rem;
+  justify-content: center;
+  width: auto;
+}
+
+.trip-title {
+  margin-top: 0.025rem;
+  text-align: center;
+}
+
+.trip-slideshow {
+  display: inline-block;
+}
+
+.trip-description {
+  text-align: center;
+  font-size: 0.8rem;
+}
+.organiser {
+  margin-top: 0.25rem;
+}
+.organiser-name {
+  margin-top: 2rem;
+  font-size: 1em;
+}
+
+.organiser-thumb {
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-left: 3rem;
+  float: left;
+}
+
+.button1 {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  margin-top: 0.5rem;
+}
+
+.button1:hover {
+  background-color: #c2dfc3; /* Green */
+  color: white;
+}
+
+.button2 {
+  background-color: #b36b66; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+}
+
+.button2:hover {
+  background-color: #ebbea4; /* Green */
+  color: white;
+}
